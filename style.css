@@ -1,0 +1,22 @@
+/* style.css */
+body {
+  background-color: #FFF5E1;
+  color: #0B3D91;
+  font-family: "Yu Gothic", sans-serif;
+  margin: 2em;
+}
+
+header {
+  background-color: #B22222;
+  color: white;
+  padding: 1em;
+  text-align: center;
+  font-weight: bold;
+}
+
+footer {
+  margin-top: 3em;
+  text-align: center;
+  color: #0B3D91;
+  font-size: 0.9em;
+}
